@@ -1,0 +1,8 @@
+{
+  "name": "GVGlent",
+  "description": "Thailand's premier toy and hobby rental platform. Rent Art Toys, Trading Cards, and Cosplay props with ease.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
